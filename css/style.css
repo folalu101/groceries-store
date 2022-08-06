@@ -1,16 +1,14 @@
-nav {
-    background-color: greenyellow;
-}
-.nerve-3{
-    position: relative;
-    right: 200px;
-    float: right;
-}
-a {
-    
-}
-.nerve-2 {
+ .image-text {
     position: absolute;
-    left: 230px;
-  }
-  
+    display: inline-block;
+ }
+ .text-over {
+    position: absolute;
+        z-index: 999;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        top: 40%;
+        text-align: center;
+        width: 60%;
+ }
