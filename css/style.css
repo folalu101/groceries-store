@@ -4,11 +4,21 @@
  }
  .text-over {
     position: absolute;
-        z-index: 999;
-        margin: 0 auto;
-        left: 0;
-        right: 0;
-        top: 40%;
-        text-align: center;
-        width: 60%;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    text-align: left;
+    width: 80%;
+    color: white;
+ }
+ .text1 {
+    font-size: 130px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+ }
+ .text2 {
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
  }
